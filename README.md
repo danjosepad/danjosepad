@@ -1,5 +1,8 @@
 ### 👋 Front End Developer
+## Currently on Camino Education 
 
+Recently solving some algorithms on HackerRank
+https://www.hackerrank.com/danielpadilhape1?hr_r=1
 <!--
 **danjosepad/danjosepad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
