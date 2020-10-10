@@ -1,10 +1,10 @@
 <p align="center">
-  <div>
+  <a href="#">
     <img align="center" width="400" src="logo.jpg" alt="logo />
-  </div>
-  <div>
-    <img align="center" width="500" src="undraw_freelancer.svg" alt="undraw freelancer />
-  </div>
+  </a>
+  <a href="#">
+     <img align="center" width="500" src="undraw_freelancer.svg" alt="logo />                                                   
+  </a>
 </p>
 
 <p align="center">
