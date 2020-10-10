@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="400" src="logo.jpg" alt="logo />
+    <img align="center" width="300" src="logo.jpg" alt="logo />
   </a>
   <a href="#">
      <img align="center" width="500" src="undraw_freelancer.svg" alt="logo />                                                   
