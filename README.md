@@ -1,19 +1,24 @@
-### 👋 Front End Developer
-## Currently on Camino Education 
+<p align="center">
+  <div>
+    <img align="center" width="400" src="logo.jpg" alt="logo />
+  </div>
+  <div>
+    <img align="center" width="500" src="undraw_freelancer.svg" alt="undraw freelancer />
+  </div>
+</p>
 
-Recently solving some algorithms on HackerRank
-https://www.hackerrank.com/danielpadilhape1?hr_r=1
-<!--
-**danjosepad/danjosepad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/danjosepad/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danjosepad&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/danjosepad/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=danjosepad&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
