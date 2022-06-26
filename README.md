@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/danjosepad/github-readme-stats">
+  <a href="https://github.com/danjosepad/github-readme-stats" display="flex" align="center" justify="center">
     <img
       height="200px"
       align="center" 
